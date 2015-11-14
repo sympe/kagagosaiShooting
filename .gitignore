@@ -1,0 +1,10 @@
+parts
+bin
+var
+sdist
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
